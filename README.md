@@ -6,7 +6,7 @@ This project centers on the data cleaning and preparation of a dataset containin
 
 #### Data Cleaning Steps
 
-1. Reformatted the dates (Formulars used: Right, Left, Mid, Concat)
+1. Reformatted the dates (formulars used: Right, Left, Mid, Concat)
 2. Removed duplicates (Product ID)
 3. Improved column name formats
 4. Formatted all data entries to uppercase (Formulars used: Upper)
